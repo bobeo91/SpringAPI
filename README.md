@@ -1,2 +1,2 @@
 # SpringAPI
-Basic CRUD, Search, sort, pagination
+Basic CRUD, Search, Sort, Pagination
